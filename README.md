@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI technologies.
 - 🌱 I’m currently learning Python and Deep Learning with Python.
 - 💞️ I’m looking to collaborate on Python projects that develop AI models.
-- 📫 How to reach me in LinkedIn @edgar-heror.
+- 📫 You can reach out to me in LinkedIn @edgar-heror.
 - 😄 Pronouns: Edguitar
 - ⚡ Fun fact: I am one of those crazy ones that like to make possible the impossible. 
 
