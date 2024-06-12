@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python projects that develop AI models.
 - 📫 You can reach out to me in LinkedIn @edgar-heror.
 - 😄 Pronouns: Edguitar 
-- ⚡ Fun fact: I am one of those crazy ones that like to make possible the impossible. 
+- ⚡ Fun fact: I am one of those ones that like to make possible the impossible. 
 
 <!---
 edgarheror/edgarheror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
